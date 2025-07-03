@@ -21,3 +21,4 @@ Voice Support (Optional): With additional configuration, the app can convert spe
 The increasing emphasis on digital wellness tools makes HealthMate a relevant and impactful project. Many people are looking for ways to stay mindful of their health without always needing professional intervention. HealthMate bridges this gap by offering basic health assistance through an intelligent, friendly interface—available 24/7 on the web.
 
 This project is also a powerful showcase of integrating web technologies with Python-based natural language processing. It is modular, extensible, and suitable as a foundation for more advanced health-focused applications in the future (e.g., AI diagnostics, wearable integrations, or API-based symptom tracking).# MIND_ECHO
+# MIND_ECHO
